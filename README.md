@@ -1,2 +1,3 @@
-# iEarths_USBHUB
-A custom usb hub made for me by me.
+# AetherClock
+
+A cozy cool sci-fi desk clock made by me for me!
